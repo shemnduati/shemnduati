@@ -12,9 +12,16 @@
   <a href="https://twitter.com/nduati_shem">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a>
+</div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=shemnduati&style=flat-square&color=blue" alt=""/>
-  </a>
+</div>
+<h1>
+  Hello, there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
 </div>
 
 ### Hi there 👋
